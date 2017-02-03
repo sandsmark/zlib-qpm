@@ -1,0 +1,18 @@
+{
+  "name": "net.zlib",
+  "author": {
+    "name": "Martin T. H. Sandsmark",
+    "email": "martin.sandsmark@kde.org"
+  },
+  "repository": {
+    "type": "GIT",
+    "url": "https://github.com/sandsmark/zlib-qpm.git"
+  },
+  "version": {
+    "label": "0.0.1"
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "priFilename": "zlib.pri"
+}
